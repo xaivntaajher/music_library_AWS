@@ -1,0 +1,14 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  background-color: rgb(255, 255, 255);
+}
+
+th {
+  width: 180px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}

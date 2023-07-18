@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+flask-cors = "*"
+flask-marshmallow = "*"
+flask-migrate = "*"
+flask-restful = "*"
+flask-sqlalchemy = "*"
+marshmallow-sqlalchemy = "*"
+mysql-connector-python = "*"
+python-dotenv = "*"
+
+[dev-packages]
+
